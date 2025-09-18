@@ -58,13 +58,13 @@ Output: `val_topP.jsonl` (for each sample, the Top‑P candidates and the Stage�
 ---
 
 ## Roadmap
-- [x] Flow diagram (overview.png)
-- [x] EVA‑CLIP + FAISS index building (Script 1)
-- [x] Stage‑1 retrieval and scoring (Script 2)
-- [x] Stage‑2 Prompt (plain text)
-- [ ] Stage‑2 scoring implementation (MLLM‑as‑Judge) — coming soon
-- [ ] R* (Reasoning‑Before‑Evidence) — coming soon
-- [ ] Answer generation and end‑to‑end evaluation — coming soon
+- ✅ Flow diagram (overview.png)
+- ✅ EVA‑CLIP + FAISS index building 
+- ✅ Stage‑1 retrieval and scoring 
+- ✅ Stage‑2 Prompt 
+- ⏳ Stage‑2 scoring implementation (MLLM‑as‑Judge) — coming soon
+- ⏳ R* (Reasoning‑Before‑Evidence) — coming soon
+- ⏳ Answer generation and end‑to‑end evaluation — coming soon
 
 ---
 
