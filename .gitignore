@@ -1,0 +1,11 @@
+__pycache__/
+exp/
+indexes/
+*.npy
+*.npz
+*.index
+*.pt
+*.bin
+*.ckpt
+*.pth
+.DS_Store
