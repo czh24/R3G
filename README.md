@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>R<sup>3</sup>G‑VQA</h1>
+  <h1>R<sup>3</sup>G: A Reasoning-Retrieval-Reranking Framework for Vision-Centric Answer Generation</h1>
 </div>
 
 <p align="center">
